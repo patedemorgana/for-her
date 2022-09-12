@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #222;
+    background-color: rgb(128, 52, 52);
+}
+
+#button {
+    background-color: #3a29296b;
+    width: 100%;
+    max-width: 420px;
+    border-radius: 30px;
+    padding: 3em;
+    margin: 1em;
+    text-align: center;
+}
+
+
